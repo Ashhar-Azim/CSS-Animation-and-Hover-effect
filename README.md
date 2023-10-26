@@ -1,31 +1,32 @@
-HTML Animation Readme
-This repository contains an HTML document, a CSS file, and a JavaScript file that together create a mesmerizing animation. The animation consists of spinning colorful circles that change their appearance when hovered over. This README provides an overview of the files and how to use them.
+# HTML Project
 
-Files
-1. index.html
-This is the main HTML file that renders the animation. It includes the necessary structure, such as the HTML5 document structure, meta tags, and a reference to the CSS and JavaScript files.
+This repository contains an HTML project that generates an interesting visual effect using CSS and JavaScript. 
 
-2. style.css
-The CSS file contains the styling for the HTML document. It defines the appearance of the main container, under container, and the animated spinning circles. It also includes media queries to adjust the circle size and container dimensions for smaller screens.
+## Project Structure
 
-3. main.js
-The JavaScript file includes a simple console.log statement to indicate when the script is executed. This file may serve as a starting point for adding more interactivity or functionality to the animation.
+- `index.html`: The main HTML file that creates the structure of the project.
+- `style.css`: The CSS file that styles the elements for the visual effect.
+- `main.js`: The JavaScript file responsible for the interactivity of the project.
 
-How to Use
-To view the animation, follow these steps:
+## How to Use
 
-Clone this repository to your local machine using Git or download it as a ZIP file and extract it.
+To view the project, simply open the `index.html` file in a web browser.
 
-Open the index.html file in a web browser. You can do this by double-clicking the file or by right-clicking it and selecting "Open with" and choosing your preferred web browser.
+## Visual Effect
 
-You should see the animation in your browser. The colorful circles will spin, and when you hover over the container, they will change their appearance.
+The project creates an intriguing visual effect of rotating shapes with a yellow color scheme. When hovered over, the shapes transform and the visual effect changes dynamically.
 
-Customization
-If you want to customize the animation or extend its functionality, you can modify the style.css and main.js files. Here are some ideas for customization:
+## Requirements
 
-Adjust the colors, sizes, or positions of the spinning circles in the CSS file.
-Add more interactivity to the animation by enhancing the JavaScript in the main.js file.
-Experiment with different CSS animations or transitions to achieve different visual effects.
-Feel free to explore and experiment with the code to create your unique animations and web experiences.
+To run the project, you need a modern web browser that supports HTML5, CSS3, and JavaScript.
 
-Enjoy the mesmerizing animation!
+## License
+
+This project is licensed under the terms of the [MIT license](https://opensource.org/licenses/MIT).
+
+Feel free to customize and use this project as per the terms of the MIT license.
+
+## Author
+
+This project is created and maintained by [Ashhar Azim](https://github.com/Ashhar-Azim).
+
